@@ -7,3 +7,9 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,figma,github,html,js,linux,mysql,py,react,ts,vscode&perline=14" />
+  </a>
+</p>
