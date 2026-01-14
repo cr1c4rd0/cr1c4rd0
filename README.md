@@ -12,9 +12,9 @@
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
  
 ### 🛠 &nbsp;Tech Stack
-<!--tech stack icons-->
+<!--tech stack icons https://skillicons.dev-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,css,postgres,go,figma,github,html,js,linux,mysql,py,react,ts,vscode&perline=14" />
   </a>
 </p>
