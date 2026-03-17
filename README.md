@@ -28,7 +28,15 @@
 </a>
 </p>
 
-### ⚙️ &nbsp;Download CV
+### ✍️ &nbsp;Design
+<p align="center">
+ <ul>
+  <li><a href="https://www.behance.net/cristianri30a9" target="_blank">Behance/a></li>
+  <li><a href="https://dribbble.com/cr1c4rd0" target="_blank">Dribbble</a></li>
+ </ul>
+</p>
+
+###  &nbsp;Download CV
 <p aling="center">
  <ul>
   <li><a href="https://github.com/cr1c4rd0/cr1c4rd0/blob/main/CV_En.pdf" target="_blank">Download CV EN</a></li>
