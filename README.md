@@ -30,8 +30,10 @@
 
 ### ⚙️ &nbsp;Download CV
 <p aling="center">
- <a href="https://github.com/cr1c4rd0/cr1c4rd0/blob/main/CV_En.pdf" target="_blank">Donwload CV EN</a>
- <a href="https://github.com/cr1c4rd0/cr1c4rd0/blob/main/CV_Es.pdf" target="_blank">Donwload CV ES</a>
+ <ul>
+  <li><a href="https://github.com/cr1c4rd0/cr1c4rd0/blob/main/CV_En.pdf" target="_blank">Donwload CV EN</a></li>
+  <li><a href="https://github.com/cr1c4rd0/cr1c4rd0/blob/main/CV_Es.pdf" target="_blank">Donwload CV ES</a></li>
+ </ul>
 </p>
 
 -----
